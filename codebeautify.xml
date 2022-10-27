@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Дайджест новостей о python</title>
+		<link>https://pythondigest.ru/</link>
+		<description>Рускоязычные анонсы свежих новостей о python и близлежащих технологиях.</description>
+		<atom:link rel="self" href="https://pythondigest.ru/rss/"></atom:link>
+		<language>ru-ru</language>
+		<lastBuildDate>Fri, 21 Oct 2022 05:49:25 +0300</lastBuildDate>
+		<item>
+			<title>AiPainter — цифровой AI-художник</title>
+			<link>https://habr.com/ru/post/694212/?utm_campaign=694212&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+			<description>&lt;p&gt;Доброго времени суток, уважаемые коллеги по цеху! Хочу рассказать о своём последнем проекте, написанном по фану - обёртке для трёх нейросетевых проектов: нашумевшей StableDiffusion (используется её форк InvokeAI) и более старых - lama-cleaner и rembg.&lt;/p&gt;</description>
+			<pubDate>Fri, 21 Oct 2022 05:49:25 +0300</pubDate>
+			<guid>https://habr.com/ru/post/694212/?utm_campaign=694212&amp;utm_source=habrahabr&amp;utm_medium=rss</guid>
+		</item>
+		<item>
+			<title>7 полезных книг по Python для старта и развития навыков: выбор сотрудников Selectel</title>
+			<link>https://habr.com/ru/post/693800/?utm_campaign=693800&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+			<description>&lt;p&gt;Попросили коллег порекомендовать книги по изучению Python, которые когда-то помогли им прокачать свои навыки. Сохраняйте подборку в закладки &amp;mdash; она пригодится и начинающим, и опытным специалистам. А также делитесь своими вариантами в комментариях.&lt;/p&gt;</description>
+			<pubDate>Thu, 20 Oct 2022 23:49:25 +0300</pubDate>
+			<guid>https://habr.com/ru/post/693800/?utm_campaign=693800&amp;utm_source=habrahabr&amp;utm_medium=rss</guid>
+		</item>
+		<item>
+			<title>Thermal Vision: Measuring Your First Temperature from an Image with Python and OpenCV</title>
+			<link>https://pyimagesearch.com/2022/10/17/thermal-vision-measuring-your-first-temperature-from-an-image-with-python-and-opencv/</link>
+			<description></description>
+			<pubDate>Thu, 20 Oct 2022 17:49:25 +0300</pubDate>
+			<guid>https://pyimagesearch.com/2022/10/17/thermal-vision-measuring-your-first-temperature-from-an-image-with-python-and-opencv/</guid>
+		</item>
+		<item>
+			<title>Исчерпывающее руководство по множествам в Python</title>
+			<link>https://habr.com/ru/post/693592/?utm_campaign=693592&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+			<description>&lt;p&gt;Класс&amp;nbsp;set&amp;nbsp;(множество) &amp;mdash; это одна из ключевых структур данных в Python. Она представляет собой неупорядоченную коллекцию уникальных элементов. Класс&amp;nbsp;set, в некоторой степени, соответствует математическому множеству. Многие широко используемые математические операции, применимые к множествам, существуют и в Python. Часто вычисления, производимые над множествами, оказываются гораздо быстрее, чем альтернативные операции со списками. В результате, для того чтобы писать эффективный код, Python-программисту просто необходимо уметь пользоваться множествами. В этой статье я расскажу об особенностях работы с классом&amp;nbsp;set&amp;nbsp;в Python.&lt;/p&gt;</description>
+			<pubDate>Thu, 20 Oct 2022 11:49:25 +0300</pubDate>
+			<guid>https://habr.com/ru/post/693592/?utm_campaign=693592&amp;utm_source=habrahabr&amp;utm_medium=rss</guid>
+		</item>
+		<item>
+			<title>Компенсация подсветки телевизора</title>
+			<link>https://habr.com/ru/post/693268/?utm_campaign=693268&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+			<description>&lt;p&gt;При просмотре телевизора я постоянно вижу красный. В прямом смысле &amp;ndash; подсветка моего Panasonic частично не работает, что вызывает неравномерное розовое свечение там, где должен быть белый цвет.&lt;br /&gt;
+&lt;br /&gt;
+Мне этот старый хлам достался даром, поэтому я особо не жалуюсь, но пару недель назад все же решил как-то отображение цвета наладить.&lt;/p&gt;</description>
+			<pubDate>Tue, 18 Oct 2022 07:09:33 +0300</pubDate>
+			<guid>https://habr.com/ru/post/693268/?utm_campaign=693268&amp;utm_source=habrahabr&amp;utm_medium=rss</guid>
+		</item>
+		<item>
+			<title>Регулярки (regex) — основы для решения кейсов, про которые не пишут в статьях про основы</title>
+			<link>https://habr.com/ru/post/693586/?utm_campaign=693586&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+			<description>&lt;p&gt;&amp;quot;Там просто регулярку написать&amp;quot; - говорили они...&lt;/p&gt;</description>
+			<pubDate>Tue, 18 Oct 2022 05:57:33 +0300</pubDate>
+			<guid>https://habr.com/ru/post/693586/?utm_campaign=693586&amp;utm_source=habrahabr&amp;utm_medium=rss</guid>
+		</item>
+		<item>
+			<title>django_model_cached_property - Кэширование property для отдельных объектов моделей в Django</title>
+			<link>https://evileg.com/ru/post/677/</link>
+			<description>&lt;p&gt;Представляю релиз стабильной батарейки django_model_cached_property для кэширования property для отдельных объектов моделей в Django.&lt;/p&gt;</description>
+			<pubDate>Tue, 18 Oct 2022 08:21:33 +0300</pubDate>
+			<guid>https://evileg.com/ru/post/677/</guid>
+		</item>
+		<item>
+			<title>Используем Docker и Django</title>
+			<link>https://egorovegor.ru/python-docker-django/</link>
+			<description>&lt;p&gt;Подробное руководство по использованию Docker в разработке на языке программирования Python. Расскажу об основных концепциях в Docker и на примере создадим свой образ с веб-приложением на Django и запустим его.&lt;/p&gt;</description>
+			<pubDate>Tue, 18 Oct 2022 04:45:33 +0300</pubDate>
+			<guid>https://egorovegor.ru/python-docker-django/</guid>
+		</item>
+		<item>
+			<title>Проверка автокорреляции с использованием критерия Дарбина-Уотсона средствами Python</title>
+			<link>https://habr.com/ru/post/693402/?utm_campaign=693402&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+			<description>&lt;p&gt;Методический разбор для специалистов&amp;nbsp;DataScience&amp;nbsp;по применению критерия Дарбина-Уотсона для проверки автокорреляции средствами&amp;nbsp;python&lt;/p&gt;</description>
+			<pubDate>Tue, 18 Oct 2022 02:21:33 +0300</pubDate>
+			<guid>https://habr.com/ru/post/693402/?utm_campaign=693402&amp;utm_source=habrahabr&amp;utm_medium=rss</guid>
+		</item>
+		<item>
+			<title>Как создать и исследовать лог процесса выполнения программы</title>
+			<link>https://habr.com/ru/post/693442/?utm_campaign=693442&amp;utm_source=habrahabr&amp;utm_medium=rss</link>
+			<description>&lt;p&gt;Анализ исходного кода - давно зарекомендовавшая себя практика для выявления отклонений до выхода приложения на рынок. Проверка на уязвимости, program understanding, поиск логических ошибок в использовании библиотек, code review и многие другие методы статического, динамического и ручного анализа кода широко применяются во многих компаниях занимающихся разработкой программ.&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Tue, 18 Oct 2022 03:33:33 +0300</pubDate>
+			<guid>https://habr.com/ru/post/693442/?utm_campaign=693442&amp;utm_source=habrahabr&amp;utm_medium=rss</guid>
+		</item>
+	</channel>
+</rss>
